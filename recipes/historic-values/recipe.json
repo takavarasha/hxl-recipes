@@ -1,6 +1,6 @@
 {
-  "name": "historicfoodprices",
-  "title": "Historic Food Prices",
+  "name": "toplineindicators",
+  "title": "Topline Indicator Trends",
   "type": "cookbook",
   "columns": [
     "#date",
